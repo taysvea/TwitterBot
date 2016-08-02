@@ -1,1 +1,2 @@
 tweepy==3.5.0
+gunicorn==19.0.0
