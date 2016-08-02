@@ -1,1 +1,1 @@
-web: gunicorn twitterbot.wsgi
+web: gunicorn gettingstarted.wsgi
